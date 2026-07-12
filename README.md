@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Salut!👋🏽Je m'appele Jeffrey Emilio</h1>
-  <h3>🚀Je suis un développeur fullstack junior Mobile / Web et UI / UX designer</h3>
+  <h1>Salut!👋🏽Bienvenue sur mon compte</h1>
+  <h3>🚀Je m'appele Jeffrey Emilio,je suis un développeur fullstack junior Mobile / Web et UI / UX designer</h3>
 
   <p style="max-width: 650px; line-height: 1.6;">
     Passionné par les technologies numériques et le travail en équipe avec une forte volonté d'apprendre et de relever de nouveaux défis. 
