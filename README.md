@@ -42,14 +42,14 @@
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td width="50%" valign="top">
-      <strong>🇲🇬 Jejy</strong> — <em>Apprentissage musical Malagasy</em>
-      <br><small>Application mobile interactive avec un instrument virtuel et intégration d'analyse de performances.</small>
+      <strong>🇲🇬 MentorMe</strong> — <em>Application de révision</em>
+      <br><small>Application mobile interactive avec un QCM , résumé IA et génération des flashcard.</small>
       <br><code>Flutter</code> <code>Dart</code> <code>Python</code>
     </td>
     <td width="50%" valign="top">
       <strong>🔒SMOB (Sécurité MOBILE)</strong> — <em>Localisation</em>
       <br><small>Application permettant de suivre précisément la position de l'appareil à distance en temps réel.</small>
-      <br><code>Flutter</code> <code>Dart</code> <code>Firebase</code>
+      <br><code>Flutter</code> <code>Dart</code>
     </td>
   </tr>
 </table>
