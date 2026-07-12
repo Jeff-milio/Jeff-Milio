@@ -1,75 +1,65 @@
+<div align="center">
+  <h1>Jeffrey Emilio</h1>
+  <h3>🚀 Développeur fullstack junior Mobile / Web et UI / UX designer</h3>
 
+  <p style="max-width: 650px; line-height: 1.6;">
+    Passionné par les technologies numériques et le travail en équipe avec une forte volonté d'apprendre et de relever de nouveaux défis. 
+    Je m'engage à fournir un travail de qualité et à évoluer continuellement.
+  </p>
 
-<!--
-**Jeff-milio/Jeff-Milio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="mailto:jeffreyemilioandria@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jeffreyemilioandria%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  <br><br>
+  <hr size="1" color="#30363d" width="80%">
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h2>🙋‍♂️ À propos de moi</h2>
+  <p style="max-width: 750px; line-height: 1.6; text-align: center;">
+    ✨ <strong>Créatif & Curieux :</strong> J'ai une grande soif d'apprendre et je reste en veille constante pour maîtriser de nouvelles technologies et méthodologies de développement.
+    <br>
+    🎨 <strong>Design UI/UX :</strong> Au-delà du code, je possède une forte sensibilité esthétique. Je suis doué pour concevoir des interfaces utilisateur (UI) modernes, fluides et centrées sur l'expérience utilisateur (UX).
+    <br>
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-  <h1 align="center">👋 Salut, moi c'est [Ton Prénom / Pseudo] !</h1>
-  <p align="center"><b>Développeur Logiciel passionné par l'univers Mobile & Web 🚀</b></p>
-</p>
+<br>
+<hr size="1" color="#30363d" width="50%">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-</p>
+<div align="center">
+  <h2>🚀 Projets Récents & Personnels</h2>
+</div>
 
----
-
-## 👨‍💻 À propos de moi
-
-- 🎓 Étudiant en **Informatique & Génie Logiciel**.
-- 📱 Spécialisé dans la création d'applications mobiles fluides avec **Flutter & Dart**.
-- 🎨 Un faible pour le design d'interfaces modernes, épurées et interactives (amoureux du style *Glassmorphism*).
-- 🥋 En dehors du code, je me donne à fond dans mes passions !
-
----
-
-## 🛠️ Mes Technologies préférées
-
-<table>
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-      <br>Flutter
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🇲🇬 Jejy</strong> — <em>Apprentissage musical Malagasy</em>
+      <br><small>Application mobile interactive avec un instrument virtuel et intégration d'analyse de performances.</small>
+      <br><code>Flutter</code> <code>Dart</code> <code>Python</code>
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-      <br>CSS3 / UI
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-      <br>Git
+    <td width="50%" valign="top">
+      <strong>🔒 SMOB (Sécurité MOBILE)</strong> — <em>Localisation</em>
+      <br><small>Application permettant de suivre précisément la position de l'appareil à distance en temps réel.</small>
+      <br><code>Flutter</code> <code>Dart</code> <code>Firebase</code>
     </td>
   </tr>
 </table>
 
----
+<br>
+<hr size="1" color="#30363d" width="50%">
 
-## 📈 Mes Statistiques GitHub
+<div align="center">
+  <h2>🛠️ Hard Skills & Design</h2>
+  <br>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,java,mysql,supabase,firebase,figma,ps&theme=dark" alt="My Skills" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=radial&hide_border=true" alt="Stats GitHub" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_GITHUB&layout=compact&theme=radial&hide_border=true" alt="Langages les plus utilisés" width="48%">
-</p>
-
----
-
-<p align="center">
-  <i>"Le code, c'est de l'art qui s'exécute."</i> ✨
-</p>
+<br>
+<hr size="1" color="#30363d" width="80%">
