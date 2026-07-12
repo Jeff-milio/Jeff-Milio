@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Salut!👋🏽Bienvenue sur mon compte</h1>
-  <h3>🚀Je m'appele Jeffrey Emilio, je suis un développeur fullstack junior Mobile / Web et UI / UX designer</h3>
+  <h3>🚀Je m'appele Jeffrey Emilio, je suis un développeur fullstack Mobile junior/ Web et UI / UX designer</h3>
 
   <p style="max-width: 650px; line-height: 1.6;">
     Passionné par les technologies numériques et le travail en équipe avec une forte volonté d'apprendre et de relever de nouveaux défis. 
@@ -22,9 +22,14 @@
 <div>
   <h2>👨🏽‍💼 À propos de moi</h2>
   <p style="line-height: 1.6; text-align: left;">
-    ✨ <strong>Créatif & Curieux :</strong> J'ai une grande soif d'apprendre et je reste en veille constante pour maîtriser de nouvelles technologies et méthodologies de développement.
-    <br><br>
+    
+   
     🎨 <strong>Design UI/UX :</strong> Au-delà du code, je possède une forte sensibilité esthétique. Je suis doué pour concevoir des interfaces utilisateur (UI) modernes, fluides et centrées sur l'expérience utilisateur (UX).
+
+   📱 <strong>Développement Mobile/Web:</strong
+Passionné par le développement mobile. Je fais aussi du développement web, mais mon expertise est principalement orientée vers le mobile.
+
+  ✨ <strong>Créatif & Curieux :</strong> J'ai une grande soif d'apprendre et je reste en veille constante pour maîtriser de nouvelles technologies et méthodologies de développement.
   </p>
 </div>
 
