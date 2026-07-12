@@ -25,8 +25,8 @@
 <br></br>
     🎨 <strong>Design UI/UX :</strong> Au-delà du code, je possède une forte sensibilité esthétique. Je suis doué pour concevoir des interfaces utilisateur (UI) modernes, fluides et centrées sur l'expérience utilisateur (UX).
 
-   📱 <strong>Développement Mobile/Web:</strong
-Passionné par le développement mobile. Je fais aussi du développement web, mais mon expertise est principalement orientée vers le mobile.
+   📱 <strong>Développement Mobile/Web:</strong>
+ Je m'intéresse plus sur le développement mobile. Je fais aussi du développement web, mais mon expertise est principalement orientée vers le mobile.
 
   ✨ <strong>Créatif & Curieux :</strong> J'ai une grande soif d'apprendre et je reste en veille constante pour maîtriser de nouvelles technologies et méthodologies de développement.
   </p>
