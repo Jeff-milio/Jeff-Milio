@@ -15,13 +15,13 @@
   <hr size="1" color="#30363d" width="80%">
 </div>
 
-<div align="center">
+<!-- SECTION À PROPOS DE MOI ALIGNÉE À GAUCHE -->
+<div>
   <h2>🙋‍♂️ À propos de moi</h2>
-  <p style="max-width: 750px; line-height: 1.6; text-align: center;">
+  <p style="line-height: 1.6; text-align: left;">
     ✨ <strong>Créatif & Curieux :</strong> J'ai une grande soif d'apprendre et je reste en veille constante pour maîtriser de nouvelles technologies et méthodologies de développement.
-    <br>
+    <br><br>
     🎨 <strong>Design UI/UX :</strong> Au-delà du code, je possède une forte sensibilité esthétique. Je suis doué pour concevoir des interfaces utilisateur (UI) modernes, fluides et centrées sur l'expérience utilisateur (UX).
-    <br>
   </p>
 </div>
 
@@ -33,8 +33,6 @@
 </div>
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>🇲🇬 Jejy</strong> — <em>Apprentissage musical Malagasy</em>
@@ -52,12 +50,27 @@
 <br>
 <hr size="1" color="#30363d" width="50%">
 
+<!-- SECTION HARD SKILLS CLASSÉE PAR STACK -->
 <div align="center">
-  <h2>🛠️ Hard Skills & Design</h2>
+  <h2>🛠️ Hard Skills & Organisation par Stack</h2>
   <br>
-  
+
+  <h4>💻 Frontend & Mobile/Web</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,java,mysql,supabase,firebase,figma,ps&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js&theme=dark" alt="Frontend & Mobile" />
+  </a>
+  <br><br>
+
+  <h4>⚙️ Backend & Base de données</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,mysql,postgres,supabase,firebase&theme=dark" alt="Backend & BDD" />
+  </a>
+  <br><br>
+
+  <h4>🎨 Conception & Design UI/UX</h4>
+  <a href="https://skillicons.dev">
+    <!-- Regarde ici : ai = Illustrator, ps = Photoshop, affinity = Affinity Designer -->
+    <img src="https://skillicons.dev/icons?i=ai,ps,affinity&theme=dark" alt="Conception & Design" />
   </a>
 </div>
 
