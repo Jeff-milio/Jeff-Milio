@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Salut!Je m'appele Jeffrey Emilio</h1>
+  <h1>Salut!👋🏽 Je m'appele Jeffrey Emilio</h1>
   <h3>🚀Je suis un développeur fullstack junior Mobile / Web et UI / UX designer</h3>
 
   <p style="max-width: 650px; line-height: 1.6;">
@@ -20,7 +20,7 @@
 
 <!-- SECTION À PROPOS DE MOI ALIGNÉE À GAUCHE -->
 <div>
-  <h2>🙋‍♂️ À propos de moi</h2>
+  <h2>👨🏽‍💼 À propos de moi</h2>
   <p style="line-height: 1.6; text-align: left;">
     ✨ <strong>Créatif & Curieux :</strong> J'ai une grande soif d'apprendre et je reste en veille constante pour maîtriser de nouvelles technologies et méthodologies de développement.
     <br><br>
@@ -43,7 +43,7 @@
       <br><code>Flutter</code> <code>Dart</code> <code>Python</code>
     </td>
     <td width="50%" valign="top">
-      <strong>🔒 SMOB (Sécurité MOBILE)</strong> — <em>Localisation</em>
+      <strong>🔒SMOB (Sécurité MOBILE)</strong> — <em>Localisation</em>
       <br><small>Application permettant de suivre précisément la position de l'appareil à distance en temps réel.</small>
       <br><code>Flutter</code> <code>Dart</code> <code>Firebase</code>
     </td>
