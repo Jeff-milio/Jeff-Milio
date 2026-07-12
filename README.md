@@ -22,8 +22,7 @@
 <div>
   <h2>👨🏽‍💼 À propos de moi</h2>
   <p style="line-height: 1.6; text-align: left;">
-    
-   
+<br></br>
     🎨 <strong>Design UI/UX :</strong> Au-delà du code, je possède une forte sensibilité esthétique. Je suis doué pour concevoir des interfaces utilisateur (UI) modernes, fluides et centrées sur l'expérience utilisateur (UX).
 
    📱 <strong>Développement Mobile/Web:</strong
