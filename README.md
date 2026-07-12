@@ -7,11 +7,14 @@
     Je m'engage à fournir un travail de qualité et à évoluer continuellement.
   </p>
 
-  <a href="mailto:jeffreyemilioandria@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jeffreyemilioandria%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <!-- Liens de contact et réseaux optimisés -->
+  <div style="display: flex; justify-content: center; gap: 12px; align-items: center;">
+    <a href="mailto:jeffreyemilioandria@gmail.com">
+      <img src="https://img.shields.io/badge/Email-jeffreyemilioandria%40gmail.com-0052CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </div>
   
-  <br><br>
+  <br>
   <hr size="1" color="#30363d" width="80%">
 </div>
 
@@ -66,13 +69,21 @@
     <img src="https://skillicons.dev/icons?i=java,mysql,postgres,supabase,firebase&theme=dark" alt="Backend & BDD" />
   </a>
   <br><br>
-
-  <h4>🎨 Conception & Design UI/UX</h4>
+  
+<h4>🧰 Outils de développement</h4>
   <a href="https://skillicons.dev">
-    <!-- Regarde ici : ai = Illustrator, ps = Photoshop, affinity = Affinity Designer -->
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,github&theme=dark" alt="Outils" />
+  </a>
+  <br><br>
+
+<h4>🎨 Conception & Design UI/UX</h4>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ai,ps,affinity&theme=dark" alt="Conception & Design" />
   </a>
 </div>
+
+<br>
+<hr size="1" color="#30363d" width="80%">
 
 <br>
 <hr size="1" color="#30363d" width="80%">
